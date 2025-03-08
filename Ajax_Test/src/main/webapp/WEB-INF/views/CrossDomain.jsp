@@ -27,6 +27,8 @@
 						
 						$('<div></div>').append(a,b,c).appendTo('body');
 					});
+					console.log(input);
+					console.log('asdf');
 					alert(input.data);
 				}
 			});
